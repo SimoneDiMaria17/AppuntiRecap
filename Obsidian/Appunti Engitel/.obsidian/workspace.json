@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Sql"
             }
+          },
+          {
+            "id": "f6fda80d1c85fea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passi per la Creazione di un Progetto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Passi per la Creazione di un Progetto"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +212,11 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "0c440f3e5c4029e9",
+  "active": "f6fda80d1c85fea8",
   "lastOpenFiles": [
-    "Senza nome.base",
+    "Sql.md",
+    "Passi per la Creazione di un Progetto.md",
     "Benvenuto.md",
-    "Sql.md"
+    "Senza nome.base"
   ]
 }
