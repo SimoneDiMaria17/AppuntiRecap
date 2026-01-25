@@ -2,7 +2,7 @@
 
 ## DbFirst
 1. Creare il Database seguendo le regole di [[Sql]]
-2. Crea il progetto su visual studio usando il template Applicazione Web Asp.net                    (.Net Framework)
+2. Crea il progetto su visual studio usando il template Applicazione Web Asp.net                    (.Net Framework) poi il modello 
 3. Importare il db
 	1. 
 ## Code First
@@ -60,7 +60,7 @@ ovviamente serve anche la stringa di connessione che va inserita nell'Appsetting
   },
 ```
 
-!implementazione dbContext!
+context factory -> che prende da repository context dove crei il db context
 
 ### Migration e creazione Db
 migration è il metodo con il quale nel CodeFirst le Classi c# diventano tabelle nel db

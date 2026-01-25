@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "677a4d0c9d09bc2a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          },
-          {
-            "id": "0c440f3e5c4029e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sql.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sql"
-            }
-          },
-          {
             "id": "f6fda80d1c85fea8",
             "type": "leaf",
             "state": {
@@ -45,8 +21,7 @@
               "title": "Passi per la Creazione di un Progetto"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +184,9 @@
   },
   "active": "f6fda80d1c85fea8",
   "lastOpenFiles": [
-    "Sql.md",
     "Passi per la Creazione di un Progetto.md",
+    "Sql.md",
+    "Passi per la Creazione di un Progetto 1.md",
     "Benvenuto.md",
     "Senza nome.base"
   ]
